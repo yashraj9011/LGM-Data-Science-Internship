@@ -4,8 +4,11 @@
 2.   I did internship in Data Science domain where I explored 3 datasets  . 
 3.   Implemented Various Machine Algorithms .
 
+## VIP Badge Selection
+&nmsp;&nmsp; &nmsp;&nmsp; &nmsp;![Logo](https://github.com/yashraj9011/LGM-Data-Science-Internship/blob/main/Web%20capture_6-10-2023_16535_.jpeg)
 
-Internship Cerificate 
+## Internship Cerificate 
 
-  ![Logo](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA/blob/main/LGM%20Data%20Science%20certificate.png)                                         
+![Logo](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA/blob/main/LGM%20Data%20Science%20certificate.png)   
+
                                          
