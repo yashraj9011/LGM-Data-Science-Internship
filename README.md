@@ -1,4 +1,4 @@
-# LGM-Internship-
+# Data Science Internship at Lets Grow More
 
 1.   All Details of the Lets Grow More Virtual Internship .
 2.   I did internship in Data Science domain where I explored 3 datasets  . 
@@ -6,6 +6,9 @@
 
 ## VIP Badge Selection
 &nmsp;&nmsp; &nmsp;&nmsp; &nmsp;![Logo](https://github.com/yashraj9011/LGM-Data-Science-Internship/blob/main/Web%20capture_6-10-2023_16535_.jpeg)
+
+##  Offer Letter from Lets Grow More
+&nmsp;&nmsp; &nmsp;&nmsp;&nmsp; ![Logo](https://github.com/yashraj9011/LGM-Data-Science-Internship/blob/main/Web%20capture_6-10-2023_17453_.jpeg)
 
 ## Internship Cerificate 
 
