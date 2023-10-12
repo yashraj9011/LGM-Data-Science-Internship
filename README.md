@@ -12,7 +12,7 @@
 ##  Offer Letter from Lets Grow More
 ![Logo](https://github.com/yashraj9011/LGM-Data-Science-Internship/blob/main/Web%20capture_6-10-2023_17453_.jpeg)
 
-## Internship Cerificate 
+## Internship Certificate 
 
 ![Logo](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA/blob/main/LGM%20Data%20Science%20certificate.png)   
 
